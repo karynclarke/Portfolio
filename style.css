@@ -9,7 +9,6 @@
             
             .container {
                 display: flex;
-                /* flex-direction: row; */
                 width: 100%;
                 height: 100%;
                 background-color: transparent !important;
@@ -31,10 +30,9 @@
                 font-size: 24px;
                 font-weight: bold;
                 text-align: center;
-                /* padding: 4px; */
                 color: white;
                 background-color: rgb(10, 10, 100);
-                opacity: 0.7;
+                opacity: 0.75;
             }
             
             .li {
@@ -146,4 +144,8 @@
             .row {
                 justify-content: center;
                 margin-top: 35px;
+            }
+            
+            .card {
+                text-align: center;
             }
