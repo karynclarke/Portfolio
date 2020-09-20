@@ -26,14 +26,23 @@
             
             p {
                 margin-top: 25px;
-                margin-right: 28px;
                 font-size: 24px;
                 font-weight: bold;
                 text-align: center;
                 color: white;
                 background-color: rgb(10, 10, 100);
                 opacity: 0.75;
-                padding: 15px;
+                padding: 20px;
+            }
+            
+            .images {
+                width: 250px;
+                height: auto;
+                border: 4px solid rgb(128, 72, 128);
+                margin-top: 25px;
+                margin-left: 15px;
+                margin-right: 15px;
+                box-shadow: 6px 8px rgb(10, 10, 100);
             }
             
             .li {
@@ -54,16 +63,6 @@
                 font-size: 24px;
                 font-weight: bold;
                 background-color: rgb(128, 72, 128) !important;
-            }
-            
-            .images {
-                width: 250px;
-                height: auto;
-                border: 4px solid rgb(128, 72, 128);
-                margin-top: 10px;
-                margin-left: 40px;
-                margin-right: 0px;
-                box-shadow: 6px 8px rgb(10, 10, 100);
             }
             
             h3 {
