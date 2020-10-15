@@ -54,7 +54,7 @@
                 display: flex;
                 font-size: 32px;
                 font-weight: bold;
-                background-color: rgb(128, 72, 128) !important;
+                /* background-color: rgb(128, 72, 128) !important; */
                 padding-left: 75px;
             }
             
@@ -62,7 +62,7 @@
                 justify-content: right;
                 font-size: 24px;
                 font-weight: bold;
-                background-color: rgb(128, 72, 128) !important;
+                /* background-color: rgb(128, 72, 128) !important; */
             }
             
             h3 {
